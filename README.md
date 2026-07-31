@@ -8,7 +8,7 @@ The goal of this project is to understand how Word2Vec works internally instead 
 
 This is Part 1 of the project, covering data preprocessing and training data generation.
  
----
+--- 
 
 ## Dataset
 
