@@ -7,7 +7,7 @@ This repository contains my implementation of the initial stages of the Word2Vec
 The goal of this project is to understand how Word2Vec works internally instead of directly using libraries such as Gensim. 
 
 This is Part 1 of the project, covering data preprocessing and training data generation.
-
+ 
 ---
 
 ## Dataset
