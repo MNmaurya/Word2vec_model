@@ -1,6 +1,6 @@
 # Word2Vec (Skip-Gram) from Scratch – Part 1
 
-## Overview
+## Overview 
 
 This repository contains my implementation of the initial stages of the Word2Vec Skip-Gram algorithm using pure Python.
 
