@@ -1,7 +1,7 @@
 # Word2Vec (Skip-Gram) from Scratch – Part 1
 
 ## Overview 
-
+ 
 This repository contains my implementation of the initial stages of the Word2Vec Skip-Gram algorithm using pure Python. 
  
 The goal of this project is to understand how Word2Vec works internally instead of directly using libraries such as Gensim.  
